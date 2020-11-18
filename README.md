@@ -1,20 +1,8 @@
-<aside id="sidebar">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              <small>Menu</small>
-              .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-              <small>O mnie</small>
-              .tar.gz file
-            </a>
-          {% endif %}
-
-          {% if site.github.is_project_page %}
-          {% endif %}
-</aside>
 ## Menu
-[Menu](#menu) 
+            <a href="{{ #menu }}" class="button">
+              <small>Menu</small>
+              test
+            </a> 
 [O mnie](#about-author) 
 [Kontakt](#contact)
 
