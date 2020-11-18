@@ -16,7 +16,7 @@
 - 🌈⚡
 
 ## Contact
-* [📧](<ppaluch@student.agh.edu.pl>)
-* [💌](<piotr.pal98@gmail.com>)
+* <a href="mailto:ppaluch@student.agh.edu.pl">📧</a>
+* <a href="mailto:piotr.pal98@gmail.com">💌</a>
        
 *  *  *  
