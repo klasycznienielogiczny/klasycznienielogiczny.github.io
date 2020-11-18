@@ -1,8 +1,5 @@
 ## Menu
-            <a href="{{ #menu }}" class="button">
-              <small>Menu</small>
-              test
-            </a> 
+[Menu](#menu)
 [O mnie](#about-author) 
 [Kontakt](#contact)
 
