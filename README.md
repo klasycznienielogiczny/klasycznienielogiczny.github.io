@@ -1,61 +1,21 @@
-## Test [kontakt](#kontakt)
+## Menu
+[Menu](#menu) 
+[O mnie](#about-author) 
+[Kontakt](#contact)
 
-You can use the [editor on GitHub](https://github.com/klasycznienielogiczny/klasycznienielogiczny.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-*   *   *
-test
--  -  -
-działa ?
-* * * *
-gwaizxdki
-******
-gwaizxdki
-- - - - -
-gwaizxdki
---------
-gwaizxdki
-*   *   *   
-gwaizxdki
--   -   -  
-gwaizxdki
-xd
-[Taat Technologie Cyfrowe][taat][taat]:http://www.taat.pl/
-<ppaluch@student.agh.edu.pl>
-![Logo Taat Technologie Cyfrowe](http://taat.pl/gfx/logo_taat.png "logo Taat")
+## About author
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- From Sandomierz, Poland
+- :mortar_board: Student at AGH UST in Kraków, Poland
+  - :wrench: Mechatronic Engineering 
+  - :computer: Computer Science and Intelligent Systems
+- 🌱 I’m currently learning how to use github in the right way
+- 🔭 I’m currently working on Kebattle project with my team :muscle:
+- :open_file_folder: Repos in my github account will be used for Podstawy Programowania and Narzędzia Informatyczne classes
+- :syringe: Blood donor
+- :rainbow_flag::zap:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klasycznienielogiczny/klasycznienielogiczny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-# Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-## Kontakt
-wiadomosc
+## Contact
+* [:e-mail:](<ppaluch@student.agh.edu.pl>)
+* [:love_letter:](<piotr.pal98@gmail.com>)
+---
