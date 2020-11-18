@@ -6,16 +6,16 @@
 ## About author
 
 - From Sandomierz, Poland
-- :mortar_board: Student at AGH UST in Kraków, Poland
-  - :wrench: Mechatronic Engineering 
-  - :computer: Computer Science and Intelligent Systems
+- 🎓 Student at AGH UST in Kraków, Poland
+  - 🔧 Mechatronic Engineering
+  - 💻 Computer Science and Intelligent Systems
 - 🌱 I’m currently learning how to use github in the right way
 - 🔭 I’m currently working on Kebattle project with my team :muscle:
-- :open_file_folder: Repos in my github account will be used for Podstawy Programowania and Narzędzia Informatyczne classes
-- :syringe: Blood donor
-- :rainbow_flag::zap:
+- 📂 Repos in my github account will be used for Podstawy Programowania and Narzędzia Informatyczne classes
+- 💉 Blood donor
+- 🌈⚡
 
 ## Contact
-* [:e-mail:](<ppaluch@student.agh.edu.pl>)
-* [:love_letter:](<piotr.pal98@gmail.com>)
----
+* [📧](<ppaluch@student.agh.edu.pl>)
+* [💌](<piotr.pal98@gmail.com>)
+----------------------------------------------------
