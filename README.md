@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on Kebattle project with my team :muscle:
 - 📂 Repos in my github account will be used for Podstawy Programowania and Narzędzia Informatyczne classes
 - 💉 Blood donor
-- [I:heart::tram:](https://gist.github.com/klasycznienielogiczny/ca73fff7d06312628d9050b21d544a19)
+- [I❤️🚊](https://gist.github.com/klasycznienielogiczny/ca73fff7d06312628d9050b21d544a19)
 - 🌈⚡
 
 ## Contact
