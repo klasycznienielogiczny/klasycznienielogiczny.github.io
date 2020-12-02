@@ -1,7 +1,7 @@
 ## Menu
 [Menu](#menu)
 [O mnie](#about-author) 
-[Projekt Kebattle](#kebattle.md)
+[Projekt Kebattle](/kebattle)
 [Kontakt](#contact)
 
 ## About author
