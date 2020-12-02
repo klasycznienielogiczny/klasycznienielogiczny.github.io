@@ -1,7 +1,7 @@
 ## Menu
 [Menu](#menu)
 [O mnie](#about-author) 
-[Projekt Kebattle](/kebattle)
+[Projekt Kebattle](https://klasycznienielogiczny.github.io/kebattle)
 [Kontakt](#contact)
 
 ## About author
