@@ -1,8 +1,7 @@
 ## Menu
-[Menu   ](#menu)
-[O mnie   ](#about-author) 
-[Projekt Kebattle   ](https://klasycznienielogiczny.github.io/kebattle)
-[Kontakt    ](#contact)
+[O mnie](#about-author) 
+[Projekt Kebattle](https://klasycznienielogiczny.github.io/kebattle)
+[Kontakt](#contact)
 
 ## About author
 
