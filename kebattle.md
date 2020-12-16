@@ -27,13 +27,13 @@ Dodatkowo do wykonania naszego projektu skorzystaliśmy z serwera Azure, któreg
 
 ----
 
-Aby przetestować naszą aplikację wystarczy kliknąć [tutaj:globe_with_meridians:](http://kebattle.azurewebsites.net/)
+Aby przetestować naszą aplikację wystarczy kliknąć [tutaj🌐](http://kebattle.azurewebsites.net/)
 
-Aby używać aplikacji lokalnie nalezy zapoznać się instrukcjami w dokumentacji zawartymi [tutaj:globe_with_meridians:](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Spos%C3%B3b-u%C5%BCycia)
+Aby używać aplikacji lokalnie nalezy zapoznać się instrukcjami w dokumentacji zawartymi [tutaj🌐](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Spos%C3%B3b-u%C5%BCycia)
 
 ----
 
-Aby dowiedzieć się dokładnie jak to działa, należy zapoznać się z opisem dostępnym pod [tym linkiem:globe_with_meridians:](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Jak-to-dzia%C5%82a%3F). Dowiesz się tam:
+Aby dowiedzieć się dokładnie jak to działa, należy zapoznać się z opisem dostępnym pod [tym linkiem🌐](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Jak-to-dzia%C5%82a%3F). Dowiesz się tam:
 * jak używać naszej aplikacji
 * jak aplikacja działa
 * zapoznasz się z interfejsem
@@ -42,8 +42,8 @@ Aby dowiedzieć się dokładnie jak to działa, należy zapoznać się z opisem 
 * omówione zostaną elementy zawarte na poszczególnych stronach
 
 Poniżej zawarty jest fragment z wyżej wymienionej strony.
->![Strona główna](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png)
->Powyżej przedstawiony jest zrzut ekranu strony głównej. W środkowej części znajduje się główna zawartość strony (obecnie w ostatnim etapie budowy :construction_worker:). Na górze strony znajduje się menu (na zielonym tle). W menu znajdują się następujące zakładki(w kolejności):
+> ![Strona główna](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png)
+>Powyżej przedstawiony jest zrzut ekranu strony głównej. W środkowej części znajduje się główna zawartość strony (obecnie w ostatnim etapie budowy 👷). Na górze strony znajduje się menu (na zielonym tle). W menu znajdują się następujące zakładki(w kolejności):
 >* Od lewej
 >1. Kebattle - Przejście na stronę główną
 >2. [O nas](#O-nas) - informacje o autorach projektu
