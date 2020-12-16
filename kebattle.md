@@ -33,7 +33,7 @@ Aby używać aplikacji lokalnie nalezy zapoznać się instrukcjami w dokumentacj
 
 ----
 
-Aby dowiedzieć się dokładnie jak to działa, należy zapoznać się z opisem dostępnym pod [tym linkiem🌐](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Jak-to-dzia%C5%82a%3F). Dowiesz się tam:
+Aby dowiedzieć się jak to działa, należy zapoznać się z opisem dostępnym pod [tym linkiem🌐](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/wiki/Jak-to-dzia%C5%82a%3F). Dowiesz się tam:
 * jak używać naszej aplikacji
 * jak aplikacja działa
 * zapoznasz się z interfejsem
@@ -42,7 +42,7 @@ Aby dowiedzieć się dokładnie jak to działa, należy zapoznać się z opisem 
 * omówione zostaną elementy zawarte na poszczególnych stronach
 
 Poniżej zawarty jest fragment z wyżej wymienionej strony.
-> ![Strona główna](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png)
+![Strona główna](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png)
 >Powyżej przedstawiony jest zrzut ekranu strony głównej. W środkowej części znajduje się główna zawartość strony (obecnie w ostatnim etapie budowy 👷). Na górze strony znajduje się menu (na zielonym tle). W menu znajdują się następujące zakładki(w kolejności):
 >* Od lewej
 >1. Kebattle - Przejście na stronę główną
