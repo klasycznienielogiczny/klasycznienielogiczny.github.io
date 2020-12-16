@@ -15,8 +15,8 @@ Nasza aplikacja ma pomóc w rozwiązaniu problemów będących konsekwencją "ch
 
 Projekt został napisany w frameworku .NET Framework 4.7.2 i został oparty na modelu MVC.
 
-Wykorzystane języki: | Wykorzystane biblioteki / rozszerzenia:
-:-------------------:|:--------------------------------------:
+**Wykorzystane języki:** | **Wykorzystane biblioteki / rozszerzenia:**
+:-----------------------:|:------------------------------------------:
 C# (backend) | jQuery
 JavaScript (frontend) | Bootstrap
 HTML (frontend) | Razor
