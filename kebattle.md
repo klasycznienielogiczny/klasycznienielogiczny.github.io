@@ -42,7 +42,7 @@ Aby dowiedzieć się jak to działa, należy zapoznać się z opisem dostępnym 
 * omówione zostaną elementy zawarte na poszczególnych stronach
 
 Poniżej zawarty jest fragment z wyżej wymienionej strony.
-![Strona główna](https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png)
+> <img src="https://github.com/AGH-Narzedzia-Informatyczne/Kebattle.Live/blob/master/Obrazki/wiki/glowna2.png" alt="Strona główna">
 >Powyżej przedstawiony jest zrzut ekranu strony głównej. W środkowej części znajduje się główna zawartość strony (obecnie w ostatnim etapie budowy 👷). Na górze strony znajduje się menu (na zielonym tle). W menu znajdują się następujące zakładki(w kolejności):
 >* Od lewej
 >1. Kebattle - Przejście na stronę główną
