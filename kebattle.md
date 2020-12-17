@@ -9,10 +9,6 @@ Na tej stronie zawarte jest jedynie _**krótkie**_ podsumowanie naszego projektu
 
 ----
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfoMro2wxWlxwg9uZ66r7et1zjA9NK9xsfKizwO0NW1kvDKpA/viewform?embedded=true" width="640" height="2578" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
-
-----
-
 Nasza aplikacja ma pomóc w rozwiązaniu problemów będących konsekwencją "chaosu" panującego w lokalach z kebabami, gdzie zamówienia często są po prostu wykrzykiwane przez sprzedawcę do kucharza, a to może prowadzić do różnych błędów w realizacji zamówienia czy pomyłek. Postanowiliśmy więc stworzyć stronę za pomocą której klient mógłby złożyć swoje zamówienie, a następnie obserwować jego realizację w czasie rzeczysitym. Ułatwi to też zadanie osobom, które przygotowywują kebaby, ponieważ mając przed sobą dokładny skład zamówienia i specjalne życzenia nie będą musiały pamiętać aż tylu rzeczy i nie popełnią błędów przy realizacji zamówienia. Zwiększy to też efektywność obsługi, ułatwi komunikację na poziomie klient–dostawca i usprawni składanie zamówienia.
 
 ----
@@ -79,4 +75,7 @@ Posiadamy jednak ambitne plany na przyszłość, oprócz dopracowania elementów
 
 ----
 
-Mamy nadzieję, że projekt się podoba. Zapraszamy do komentowania.
+Mamy nadzieję, że projekt się podoba. Zapraszamy do wypełnienia krótkiej ankiety, w której można wyrazić swoją opinię o projekcie.
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfoMro2wxWlxwg9uZ66r7et1zjA9NK9xsfKizwO0NW1kvDKpA/viewform?embedded=true" width="640" height="2578" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
